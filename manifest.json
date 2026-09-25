@@ -1,98 +1,10 @@
 [
   {
-    "date": "2026-09-17",
+    "date": "2026-09-25",
     "mode": "f",
-    "generated_at": "2026-09-17T12:20:35Z",
+    "generated_at": "2026-09-25T12:17:43Z",
     "run_ok": true,
     "n_obs_stations": 5,
-    "n_past_cycles": 5
-  },
-  {
-    "date": "2026-09-16",
-    "mode": "f",
-    "generated_at": "2026-09-16T12:19:17Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 5
-  },
-  {
-    "date": "2026-09-15",
-    "mode": "f",
-    "generated_at": "2026-09-15T12:20:17Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 5
-  },
-  {
-    "date": "2026-09-14",
-    "mode": "f",
-    "generated_at": "2026-09-14T12:26:48Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 5
-  },
-  {
-    "date": "2026-09-13",
-    "mode": "f",
-    "generated_at": "2026-09-13T12:16:58Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 5
-  },
-  {
-    "date": "2026-09-11",
-    "mode": "f",
-    "generated_at": "2026-09-11T12:19:30Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 6
-  },
-  {
-    "date": "2026-09-09",
-    "mode": "f",
-    "generated_at": "2026-09-09T12:18:01Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 7
-  },
-  {
-    "date": "2026-09-08",
-    "mode": "f",
-    "generated_at": "2026-09-10T03:15:00Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 7
-  },
-  {
-    "date": "2026-09-07",
-    "mode": "f",
-    "generated_at": "2026-09-07T12:19:15Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 7
-  },
-  {
-    "date": "2026-09-06",
-    "mode": "f",
-    "generated_at": "2026-09-08T00:55:26Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 7
-  },
-  {
-    "date": "2026-09-04",
-    "mode": "f",
-    "generated_at": "2026-09-04T12:19:13Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 7
-  },
-  {
-    "date": "2026-09-03",
-    "mode": "f",
-    "generated_at": "2026-09-04T11:38:32Z",
-    "run_ok": true,
-    "n_obs_stations": 5,
-    "n_past_cycles": 6
+    "n_past_cycles": 0
   }
 ]
