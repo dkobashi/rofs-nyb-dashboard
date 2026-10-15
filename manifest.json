@@ -2,10 +2,10 @@
   {
     "date": "2026-10-14",
     "mode": "f",
-    "generated_at": "2026-10-14T14:59:34Z",
+    "generated_at": "2026-10-15T03:03:10Z",
     "run_ok": true,
     "n_obs_stations": 5,
-    "n_past_cycles": 1
+    "n_past_cycles": 5
   },
   {
     "date": "2026-10-09",
