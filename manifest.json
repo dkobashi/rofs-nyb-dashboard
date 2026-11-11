@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-11-11",
+    "mode": "f",
+    "generated_at": "2026-11-11T13:17:06Z",
+    "run_ok": true,
+    "n_obs_stations": 5,
+    "n_past_cycles": 5
+  },
+  {
     "date": "2026-11-10",
     "mode": "f",
     "generated_at": "2026-11-10T23:09:37Z",
